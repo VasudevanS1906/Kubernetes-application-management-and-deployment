@@ -5,7 +5,7 @@ Deployed and managed a containerized Nginx web application on a Kubernetes clust
 
 The following screenshot shows the successful deployment of the Kubernetes cluster:
 
-![Screenshot](kubernetes_success-msg.png)
+![Screenshot](kubernetes_success_msg.png)
 
 The output confirms that the nginx-deployment has multiple replicas (Pods) running, the Deployment was updated with the latest configuration, and the nginx-service was created to expose the application
 
