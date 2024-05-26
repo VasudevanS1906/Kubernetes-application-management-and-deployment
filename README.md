@@ -56,3 +56,19 @@ For monitoring and troubleshooting purposes, you can use various Kubernetes comm
 When you're done, you can delete the resources created by this project by running the following command:
 
       kubectl delete service,deployment app
+
+# Support and Contact
+
+If you have any questions, please feel free to contact me at [vasudevanswornampillai@gmail.com].
+
+# License
+
+This project is licensed under the **Apache 2.0 License**.
+
+# Share with the community
+
+If you find this project interesting or helpful, don't hesitate to share with your community! Let's learn and grow together!
+
+# Conclusion
+
+In this project, we’ve deployed and managed a containerized Nginx web application on a Kubernetes cluster, utilizing manifests to create Deployments, Services and ConfigMaps. The model, a beacon of performance, awaits those go into the beautiful world of Devops.
