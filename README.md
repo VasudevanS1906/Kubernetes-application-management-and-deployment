@@ -6,6 +6,7 @@ Deployed and managed a containerized Nginx web application on a Kubernetes clust
 Before getting started, make sure you have the following prerequisites installed:
 
 1.Git
+
 2.Kubernetes cluster (local or remote)
 
 # Getting Started
