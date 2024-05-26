@@ -45,7 +45,7 @@ You can scale the application by modifying the number of replicas in the Deploym
 4. Access the Application
 Once the application is deployed, you can access it by exposing the Service. 
 
-      kubectl port-forward service/app 8080:80
+            kubectl port-forward service/app 8080:80
 
 5. Monitoring and Troubleshooting
 
